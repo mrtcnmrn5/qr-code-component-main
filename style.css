@@ -1,7 +1,11 @@
 .attribution {
-  font-size: 20px;
+  font-size: 17px;
   text-align: center;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: hsl(198, 45%, 44%);
+  text-decoration: none;
+}
+.footer {
+  margin-top: 670px;
 }
